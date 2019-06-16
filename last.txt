@@ -1,0 +1,33 @@
+Microsoft (R) Windows Script Host Version 5.6
+Copyright (C) Microsoft Corporation 1996-2001. All rights reserved.
+
+Total of 26 servers.
+Server	Last Logon	Creation Date	Last Bad Logon	Bad Logons Count
+1 <LDAP://hfmcdc2.reshealthcare.org/DC=reshealthcare,DC=org>	2/7/2005 4:01:20 PM	12/11/2004 1:01:29 PM	N/A	0
+2 <LDAP://hfmcdc1.reshealthcare.org/DC=reshealthcare,DC=org>	5/27/2005 2:31:05 PM	12/11/2004 1:01:29 PM	2/25/2005 5:22:43 PM	0
+3 <LDAP://olrdc2.reshealthcare.org/DC=reshealthcare,DC=org>	9/9/2005 10:38:41 AM	12/11/2004 1:01:29 PM	N/A	
+4 <LDAP://OLRDC1.reshealthcare.org/DC=reshealthcare,DC=org>	9/9/2005 10:38:41 AM	12/11/2004 1:01:29 PM	2/17/2005 2:07:30 PM	0
+5 <LDAP://wsmcdc1.reshealthcare.org/DC=reshealthcare,DC=org>	9/9/2005 10:52:17 AM	12/11/2004 1:01:29 PM	N/A	
+6 <LDAP://wsmcdc2.reshealthcare.org/DC=reshealthcare,DC=org>	9/9/2005 10:52:17 AM	12/11/2004 1:01:29 PM	N/A	
+7 <LDAP://rhcdc3.healthcare.local/DC=reshealthcare,DC=org>	N/A	N/A	N/A	 
+8 <LDAP://sjhdc1.reshealthcare.org/DC=reshealthcare,DC=org>	12/9/2005 7:23:31 AM	12/11/2004 1:01:29 PM	N/A	
+9 <LDAP://sjhdc3.reshealthcare.org/DC=reshealthcare,DC=org>	12/9/2005 7:23:31 AM	12/11/2004 1:01:29 PM	N/A	
+10 <LDAP://SJHDC2.reshealthcare.org/DC=reshealthcare,DC=org>	12/9/2005 7:23:31 AM	12/11/2004 1:01:29 PM	4/5/2005 6:27:09 AM	0
+11 <LDAP://rhcdc4.healthcare.local/DC=reshealthcare,DC=org>	N/A	N/A	N/A	 
+12 <LDAP://rmcdc1.reshealthcare.org/DC=reshealthcare,DC=org>	12/9/2005 7:23:31 AM	12/11/2004 1:01:29 PM	N/A	
+13 <LDAP://rmcdc2.reshealthcare.org/DC=reshealthcare,DC=org>	12/9/2005 7:23:31 AM	12/11/2004 1:01:29 PM	N/A	
+14 <LDAP://sehdc1.reshealthcare.org/DC=reshealthcare,DC=org>	12/9/2005 7:23:31 AM	12/11/2004 1:01:29 PM	N/A	
+15 <LDAP://sehdc2.reshealthcare.org/DC=reshealthcare,DC=org>	12/9/2005 7:23:31 AM	12/11/2004 1:01:29 PM	N/A	
+16 <LDAP://sfhdc2.reshealthcare.org/DC=reshealthcare,DC=org>	12/9/2005 7:23:31 AM	12/11/2004 1:01:29 PM	N/A	
+17 <LDAP://SFHDC1.reshealthcare.org/DC=reshealthcare,DC=org>	12/9/2005 7:23:31 AM	12/11/2004 1:01:29 PM	N/A	
+18 <LDAP://rlicdc3.reshealthcare.org/DC=reshealthcare,DC=org>	12/14/2005 11:55:06 AM	12/11/2004 1:01:29 PM	11/2/2005 12:19:40 PM	0
+19 <LDAP://rlicdc2.reshealthcare.org/DC=reshealthcare,DC=org>	12/14/2005 11:55:06 AM	12/11/2004 1:01:29 PM	11/6/2005 2:51:57 PM	0
+20 <LDAP://rhcdc2.healthcare.local/DC=reshealthcare,DC=org>	N/A	N/A	N/A	 
+21 <LDAP://rhcdc1.healthcare.local/DC=reshealthcare,DC=org>	N/A	N/A	N/A	 
+22 <LDAP://rlicdc1.reshealthcare.org/DC=reshealthcare,DC=org>	12/14/2005 11:55:06 AM	12/11/2004 1:01:29 PM	12/12/2005 9:30:57 AM	0
+23 <LDAP://SMEDC1.reshealthcare.org/DC=reshealthcare,DC=org>	12/14/2005 11:55:06 AM	12/11/2004 1:01:29 PM	N/A	
+24 <LDAP://smedc2.reshealthcare.org/DC=reshealthcare,DC=org>	12/14/2005 11:55:06 AM	12/11/2004 1:01:29 PM	N/A	
+25 <LDAP://whdc2.reshealthcare.org/DC=reshealthcare,DC=org>	12/14/2005 11:55:06 AM	12/11/2004 1:01:29 PM	N/A	
+26 <LDAP://WHDC1.reshealthcare.org/DC=reshealthcare,DC=org>	12/14/2005 11:55:06 AM	12/11/2004 1:01:29 PM	N/A	
+Last Logon	Creation Date	User Name	Display Name	Name	Description	Days Inactive	Distinguished Name
+12/14/2005	12/11/2004	RRay	Ray, Ron	Ray, Ron	RHC IS Network Systems Manager	0	CN=Ray\, Ron,OU=RHC_ADMINS,DC=reshealthcare,DC=org
